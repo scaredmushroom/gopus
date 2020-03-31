@@ -4,7 +4,7 @@ gopus is a Go binding for the [Opus](http://www.opus-codec.org/) audio codec.
 
 ## Documentation
 
-- [API Reference](https://godoc.org/layeh.com/gopus)
+- [API Reference](https://godoc.org/github.com/scaredmushroom/gopus)
 
 ## Requirements
 
@@ -17,4 +17,4 @@ Public domain
 
 ## Author
 
-Tim Cooper (<tim.cooper@layeh.com>)
+Tim Cooper (<tim.cooper@github.com/scaredmushroom>)
